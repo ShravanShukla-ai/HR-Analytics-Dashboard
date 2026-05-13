@@ -277,7 +277,7 @@ This project demonstrates proficiency in:
 
 📧 [shravanshukla982@gmail.com]  
 💼 [https://www.linkedin.com/in/ShuklaShravan]  
-🐙 [github.com/ShravanShukla-ai]
+🐙 [https://github.com/ShravanShukla-ai/]
 
 *Data Analyst | People Analytics | Business Intelligence | Microsoft Excel*
 
